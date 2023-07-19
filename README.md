@@ -19,3 +19,5 @@ Suba o projeto em um repositório Git remoto e coloque o link da imagem que subi
 Compartilhe o link do repositório do Git remoto para corrigirmos seu projeto.
 
 Divirta-se!
+
+Link da imagem publicada: https://hub.docker.com/r/blade19/golang-server
